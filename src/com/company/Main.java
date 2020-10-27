@@ -18,7 +18,7 @@ public class Main {
         double zero = a + b;
         answer = ((a*a)+b) / ((a+b)*(a+b));
         if (zero == 0){
-            System.out.println("Attempt to divide by zero");
+            System.out.println("Attempt to divide by zer0");
         }
         else
             System.out.println("The value of the expression: " + answer);
